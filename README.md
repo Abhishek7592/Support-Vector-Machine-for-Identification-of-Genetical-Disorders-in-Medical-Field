@@ -1,6 +1,6 @@
 # Genetic Disorder Prediction using SVM with Image Input
 
-This project implements an SVM-based classifier to predict genetic disorders from image data.
+This invention presents a Support Vector Machine (SVM)-based model for the prediction of hereditary genetic disorders such as Hereditary Breast and Ovarian Cancer, Lynch Syndrome, and Familial Hypercholesterolemia. These are inherited disorders and usually need to be detected early to be treated and managed effectively. The model presented here uses Synthetic Minority Over-sampling Technique (SMOTE) to handle class imbalance, which is a prevalent problem in genetic datasets where rare disorders have much fewer samples. Through a balanced dataset, the model improves the accuracy and fairness of predictions. 
 
 ## Features
 - Image preprocessing and feature extraction
