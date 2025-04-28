@@ -16,15 +16,15 @@ This project implements an SVM-based classifier to predict genetic disorders fro
 
 ## File Structure
 
-data/: 
+- data/: 
    Contains training images
-models/: 
+- models/: 
    Stores trained model components
-dataPpreparation.py: 
+- dataPpreparation.py: 
    Image loading and preprocessing
-model_training.py: 
+- model_training.py: 
    Model training pipeline
-prediction_gui.py: 
+- prediction_gui.py: 
    GUI for making predictions
-config.py: 
+- config.py: 
    Configuration constants
